@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
   
-  // to be sent to github.
+  
   
 public class OnlineSurvey {
 
